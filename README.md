@@ -10,7 +10,8 @@
 	<details>
 	  <summary>Who are you? 👨</summary>
 		  <pre>
-  An enthusiastic individual who is always eager to learn and grow. I strive to work on comprehensive, end-to-end projects that enhance both my technical skills.<br>
+  An enthusiastic individual who is always eager to learn and grow. I strive to work on comprehensive, end-to-end projects that 
+  enhance both my technical skills.<br>
   My name describes my qualities,
   D - Diligent: Always thorough, careful, and persistent in his work or duties. 
   A - Ambitious: Strong desire and determination to achieve success. 
