@@ -27,11 +27,11 @@
 	  As a student, I strive to keep moving forward and learning from all the projects I undertake ^^
 	  
 
-**SoftParqueadero**: This is a simple code written in Python, in a single file, which serves as basic software for recording
-vehicle entries and exits in parking lots.
+- **SoftParqueadero**: This is a simple code written in Python, in a single file, which serves as basic software for recording
+	vehicle entries and exits in parking lots.
 
 
-	  </pre>
+</pre>
 </details>
 
   
